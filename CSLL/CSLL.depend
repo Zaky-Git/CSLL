@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1669043601 source:c:\users\raychan\documents\kuliahhh\kuliah\semester 3\struktur data\tugas\tugas pendahuluan 2\csll\main.cpp
+	"CSLL.h"
+
+1669043948 source:c:\users\raychan\documents\kuliahhh\kuliah\semester 3\struktur data\tugas\tugas pendahuluan 2\csll\csll.cpp
+	"CSLL.h"
+
+1669043083 c:\users\raychan\documents\kuliahhh\kuliah\semester 3\struktur data\tugas\tugas pendahuluan 2\csll\csll.h
+	<iostream>
+
+1669043964 source:c:\users\raychan\documents\kuliahhh\kuliah\semester 3\struktur data\tugas\csll\main.cpp
+	"CSLL.h"
+
+1669043083 c:\users\raychan\documents\kuliahhh\kuliah\semester 3\struktur data\tugas\csll\csll.h
+	<iostream>
+
+1669300345 source:d:\zaky\kuliah\semester 3\c++\csll\csll.cpp
+	"CSLL.h"
+
+1669299648 d:\zaky\kuliah\semester 3\c++\csll\csll.h
+	<iostream>
+
+1669300612 source:d:\zaky\kuliah\semester 3\c++\csll\main.cpp
+	"CSLL.h"
+
